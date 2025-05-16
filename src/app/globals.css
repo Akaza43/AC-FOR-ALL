@@ -1,0 +1,73 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-amoled text-white;
+  }
+}
+
+@layer utilities {
+  .bg-blur {
+    @apply bg-black/50 backdrop-blur-lg;
+  }
+  
+  .animation-delay-500 {
+    animation-delay: -0.5s;
+  }
+  
+  .delay-100 {
+    animation-delay: 100ms;
+  }
+  .delay-200 {
+    animation-delay: 200ms;
+  }
+  .delay-300 {
+    animation-delay: 300ms;
+  }
+  
+  .bg-grid-pattern {
+    background-image: linear-gradient(to right, #ff000015 1px, transparent 1px),
+      linear-gradient(to bottom, #ff000015 1px, transparent 1px);
+    background-size: 24px 24px;
+  }
+}
+
+/* Custom Scrollbar Styling */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #111827;
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(120, 2, 255, 0.5); /* red-600 with opacity */
+  border-radius: 5px;
+  border: 2px solid #111827;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(89, 0, 255, 0.8);
+}
+
+/* For Firefox */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(140, 0, 255, 0.5) #111827;
+}
+
+.prevent-scroll {
+  overflow: hidden;
+}
+
+@media (max-width: 768px) {
+  .prevent-scroll {
+    overflow: auto !important;
+    overflow-x: hidden !important; /* Disable horizontal scrolling */
+  }
+}

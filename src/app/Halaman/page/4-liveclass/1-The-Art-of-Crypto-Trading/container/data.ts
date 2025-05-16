@@ -1,0 +1,51 @@
+export const Data = [
+  {
+    id: "1",
+    title: "Intro to Modern Day Crypto Trading",
+    drive: "https://drive.google.com/file/d/1YBub0S1SFvbRqWWm4I6OWI8CLZSXNA3S/view?usp=drive_link",
+    link: "/Halaman/page/4-liveclass/1-The-Art-of-Crypto-Trading/1-Intro-to-Modern-Day-Crypto-Trading",
+    category: "The Art of Crypto Trading",
+  },
+  {
+    id: "2",
+    title: "How to Transform a Crypto Bro into Crypto Pro",
+    drive: "https://drive.google.com/file/d/1KyBOBaM73NHrxhC1m4CtDc8zlRFCQ8ZW/view?usp=drive_link",
+    link: "/Halaman/page/4-liveclass/1-The-Art-of-Crypto-Trading/2-How-to-Transform-a-Crypto-Bro-into-Crypto-Pro",
+    category: "The Art of Crypto Trading",
+  },
+  {
+    id: "3",
+    title: "Deep Understanding of Narrative Research",
+    drive: "https://drive.google.com/file/d/1wDFJCHt9katHYYxxyKDddDZltJ5sPzEg/view?usp=drive_link",
+    link: "/Halaman/page/4-liveclass/1-The-Art-of-Crypto-Trading/3-Deep-Understanding-of-Narrative-Research",
+    category: "The Art of Crypto Trading",
+  },
+  {
+    id: "4",
+    title: "Deep Understanding of Fundamental Research",
+    drive: "https://drive.google.com/file/d/17hZrSkA2nZ_JoHYm5dnWfx-M7kAf5T2_/view?usp=drive_link",
+    link: "/Halaman/page/4-liveclass/1-The-Art-of-Crypto-Trading/4-Deep-Understanding-of-Fundamental-Research",
+    category: "The Art of Crypto Trading",
+  },
+  {
+    id: "5",
+    title: "Deep Understanding of Technical Research",
+    drive: "https://drive.google.com/file/d/1McUpe31U74JLF3gyIpjSas7XLW3Y2sqD/view?usp=drive_link",
+    link: "/Halaman/page/4-liveclass/1-The-Art-of-Crypto-Trading/5-Deep-Understanding-of-Technical-Research",
+    category: "The Art of Crypto Trading",
+  },
+  {
+    id: "6",
+    title: "Comprehensive Guide on How to Market Timing and Market Positioning",
+    drive: "https://drive.google.com/file/d/1UwiP9dEBDH0mNpicy7zlXD2Jx9dxtHI7/view?usp=drive_link",
+    link: "/Halaman/page/4-liveclass/1-The-Art-of-Crypto-Trading/6-Comprehensive-Guide-on-How-to-Market-Timing-and-Market-Positioning",
+    category: "The Art of Crypto Trading",
+  },
+  {
+    id: "7",
+    title: "Step by Step Portfolio Allocation and Portfolio Management",
+    drive: "https://drive.google.com/file/d/1XS3lt8uOGiKvf0ox7--SHm26kUk70XzY/view?usp=drive_link",
+    link: "/Halaman/page/4-liveclass/1-The-Art-of-Crypto-Trading/7-Step-by-Step-Portfolio-Allocation-and-Portfolio-Management",
+    category: "The Art of Crypto Trading",
+  },
+];

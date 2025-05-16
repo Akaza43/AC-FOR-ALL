@@ -1,0 +1,65 @@
+export const Data = [
+  {
+    id: "1",
+    title: "1 Introduction to Crypto Research",
+    drive: "https://drive.google.com/file/d/1TOeD-B8v9Q_QG6wgwN9dE3MK6wzvHjtV/view?usp=drive_link",
+    link: "/Halaman/page/3-crypto-blockchain/10-Crypto-Research/1-Introduction-to-Crypto-Research",
+    category: "Crypto Blockchain",
+  },
+  {
+    id: "2",
+    title: "2 Value Proposition and Qualitative Analysis",
+    drive: "https://drive.google.com/file/d/1yogJMu9qEAV5lLIKdkHNNAOPtQ0CxcaR/view?usp=drive_link",
+    link: "/Halaman/page/3-crypto-blockchain/10-Crypto-Research/2-Value-Proposition-and-Qualitative-Analysis",
+    category: "Crypto Blockchain",
+  },
+  {
+    id: "3",
+    title: "3 Quantitative Analysis",
+    drive: "https://drive.google.com/file/d/1lOyMGjqVCd2-uC26LRhWf-RwDF7S7aWs/view?usp=drive_link",
+    link: "/Halaman/page/3-crypto-blockchain/10-Crypto-Research/3-Quantitative-Analysis",
+    category: "Crypto Blockchain",
+  },
+  {
+    id: "4",
+    title: "4 Token Terminal Tutorial",
+    drive: "https://drive.google.com/file/d/1zTNpczSokR7y6OAuPXWGJzVxS6Z6NbCl/view?usp=drive_link",
+    link: "/Halaman/page/3-crypto-blockchain/10-Crypto-Research/4-Token-Terminal-Tutorial",
+    category: "Crypto Blockchain",
+  },
+  {
+    id: "5",
+    title: "5 Opinion Strategy and Follow Up",
+    drive: "https://drive.google.com/file/d/1gKhZUW7Z_2RJtyCE58RQj-dkGtVgNdnV/view?usp=drive_link",
+    link: "/Halaman/page/3-crypto-blockchain/10-Crypto-Research/5-Opinion-Strategy-and-Follow-Up",
+    category: "Crypto Blockchain",
+  },
+  {
+    id: "6",
+    title: "6 Blockchain Economics",
+    drive: "https://drive.google.com/file/d/1FClCJUpL54pbKONRkCb-eOvH5xoZpWI4/view?usp=drive_link",
+    link: "/Halaman/page/3-crypto-blockchain/10-Crypto-Research/6-Blockchain-Economics",
+    category: "Crypto Blockchain",
+  },
+  {
+    id: "7",
+    title: "7 Introduction to Crypto Airdrop",
+    drive: "https://drive.google.com/file/d/1BhW3TIzfAheX6rkzqCOt4puEsUUE5XUT/view?usp=drive_link",
+    link: "/Halaman/page/3-crypto-blockchain/10-Crypto-Research/7-Introduction-to-Crypto-Airdrop",
+    category: "Crypto Blockchain",
+  },
+  {
+    id: "8",
+    title: "8 ZkSync Airdrop Tutorial",
+    drive: "https://drive.google.com/file/d/1HSmQNkN7rG5ZJAT8UrvtDdBe7_755ioz/view?usp=drive_link",
+    link: "/Halaman/page/3-crypto-blockchain/10-Crypto-Research/8-ZkSync-Airdrop-Tutorial",
+    category: "Crypto Blockchain",
+  },
+  {
+    id: "9",
+    title: "9 Layer Zero",
+    drive: "https://drive.google.com/file/d/1KF7DhqDR8BjqF-gSbdl8IMFBl5tbzK7n/view?usp=drive_link",
+    link: "/Halaman/page/3-crypto-blockchain/10-Crypto-Research/9-Layer-Zero",
+    category: "Crypto Blockchain",
+  }
+];

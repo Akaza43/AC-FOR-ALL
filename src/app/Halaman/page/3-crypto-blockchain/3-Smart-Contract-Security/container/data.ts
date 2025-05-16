@@ -1,0 +1,72 @@
+export const Data = [
+  {
+    id: "1",
+    title: "1 Smart Contract Security Context",
+    drive: "https://drive.google.com/file/d/1-S22nDutBwe15GdR6Zn25TkmJ8iKBBPU/view?usp=drive_link",
+    link: "/Halaman/page/3-crypto-blockchain/3-Smart-Contract-Security/1-Smart-Contract-Security-Context",
+    category: "Crypto Blockchain",
+  },
+  {
+    id: "2",
+    title: "2 How to Become a Security Auditor Requirements",
+    drive: "https://drive.google.com/file/d/1Oi8-AoLilY4K55jFsf4Xf3Rr9hTkbAbz/view?usp=drive_link",
+    link: "/Halaman/page/3-crypto-blockchain/3-Smart-Contract-Security/2-How-to-Become-a-Security-Auditor-Requirements",
+    category: "Crypto Blockchain",
+  },
+  {
+    id: "3",
+    title: "3 How to Become a Security Auditor Experience",
+    drive: "https://drive.google.com/file/d/1AMuR2i_uWDcU7ELEPU72xd-mOxv9z52i/view?usp=drive_link",
+    link: "/Halaman/page/3-crypto-blockchain/3-Smart-Contract-Security/3-How-to-Become-a-Security-Auditor-Experience",
+    category: "Crypto Blockchain",
+  },
+  {
+    id: "4",
+    title: "4 How to Become a Security Auditor Risks",
+    drive: "https://drive.google.com/file/d/10j3JbDTiUYM0HnA8-74vnoeMI8THbbX4/view?usp=drive_link",
+    link: "/Halaman/page/3-crypto-blockchain/3-Smart-Contract-Security/4-How-to-Become-a-Security-Auditor-Risks",
+    category: "Crypto Blockchain",
+  },
+  {
+    id: "5",
+    title: "5 Smart Contract Security Overview",
+    drive: "https://drive.google.com/file/d/17rdUo7dN_qWVloTRCQn_fJwneYNZeB0g/view?usp=drive_link",
+    link: "/Halaman/page/3-crypto-blockchain/3-Smart-Contract-Security/5-Smart-Contract-Security-Overview",
+    category: "Crypto Blockchain",
+  },
+  {
+    id: "6",
+    title: "6 What is Smart Contract Security",
+    drive: "https://drive.google.com/file/d/1nAGXOniG9SLz_y-l0_3KUnl8R_ENmst0/view?usp=drive_link",
+    link: "/Halaman/page/3-crypto-blockchain/3-Smart-Contract-Security/6-What-is-Smart-Contract-Security",
+    category: "Crypto Blockchain",
+  },
+  {
+    id: "7",
+    title: "7 Security Auditing Process",
+    drive: "https://drive.google.com/file/d/1XWpTv-PIqffvHb68cHm72zJbYmUZgi5e/view?usp=drive_link",
+    link: "/Halaman/page/3-crypto-blockchain/3-Smart-Contract-Security/7-Security-Auditing-Process",
+    category: "Crypto Blockchain",
+  },
+  {
+    id: "8",
+    title: "8 Tools and Techniques",
+    drive: "https://drive.google.com/file/d/1oCbITDxkvxp-FkHEAI0xULLSCNzGSrW2/view?usp=drive_link",
+    link: "/Halaman/page/3-crypto-blockchain/3-Smart-Contract-Security/8-Tools-and-Techniques",
+    category: "Crypto Blockchain",
+  },
+  {
+    id: "9",
+    title: "9 Security Challenges Part 1",
+    drive: "https://drive.google.com/file/d/1BXOVlS30XWi5ZvgdO-TSqvylfB82Aiav/view?usp=drive_link",
+    link: "/Halaman/page/3-crypto-blockchain/3-Smart-Contract-Security/9-Security-Challenges-Part-1",
+    category: "Crypto Blockchain",
+  },
+  {
+    id: "10",
+    title: "10 Security Challenges Part 2",
+    drive: "https://drive.google.com/file/d/1WLmH5bDLwxlLuOzsK8M6jsIWe7ElQjAY/view?usp=sharing",
+    link: "/Halaman/page/3-crypto-blockchain/3-Smart-Contract-Security/10-Security-Challenges-Part-2",
+    category: "Crypto Blockchain",
+  }
+];

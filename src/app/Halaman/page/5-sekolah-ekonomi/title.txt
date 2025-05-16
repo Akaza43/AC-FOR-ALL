@@ -1,0 +1,4 @@
+mkdir "1-Pengantar-Ilmu-Ekonomi"
+mkdir "2-Mekanisme-Pasar"
+mkdir "3-Perdagangan-Internasional"
+mkdir "4-Teori Biyaya-Produksi"

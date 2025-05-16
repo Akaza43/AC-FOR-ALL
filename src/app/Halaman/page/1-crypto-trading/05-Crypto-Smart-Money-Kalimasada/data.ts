@@ -1,0 +1,72 @@
+export const Data = [
+  {
+    id: "1",
+    title: "Apa itu Smart Money",
+    yt: "https:/youtu.be/rPMnGzmOSDE?si=niGk9vQk_NCCGMyX",
+    link: "",
+    category: "Crypto Trading",
+  },
+  {
+    id: "2",
+    title: "Apa Fokus dari Smart Money",
+    yt: "https:/youtu.be/YT9lICVb6eg?si=bah_Ilj6X8Fo14DH",
+    link: "",
+    category: "Crypto Trading",
+  },
+  {
+    id: "3",
+    title: "Konsep Liquidity 1",
+    yt: "https:/youtu.be/13FBLIubfOw?si=jcSL_3HruMWTZ3wk",
+    link: "",
+    category: "Crypto Trading",
+  },
+  {
+    id: "4",
+    title: "Konsep Liquidity 2",
+    yt: "https:/youtu.be/obzt4DcP5Zw?si=S95wZgKQ_49LzBKV",
+    link: "",
+    category: "Crypto Trading",
+  },
+  {
+    id: "5",
+    title: "Konsep Liquidity 3",
+    yt: "https:/youtu.be/_quSKtfecjM?si=guAZEwW9MwLbfFCV",
+    link: "",
+    category: "Crypto Trading",
+  },
+  {
+    id: "6",
+    title: "Market Structure",
+    yt: "https:/youtu.be/CqlzfPXHu6k?si=1CgB86p8ICUVPP32",
+    link: "",
+    category: "Crypto Trading",
+  },
+  {
+    id: "7",
+    title: "Change of Character",
+    yt: "https:/youtu.be/NgOEDta-mko?si=TJlzxOmq_3BVihXG",
+    link: "",
+    category: "Crypto Trading",
+  },
+  {
+    id: "8",
+    title: "Orderblock",
+    yt: "https:/youtu.be/JTDskg8gaek?si=LwIrTLiVbHS5oorr",
+    link: "",
+    category: "Crypto Trading",
+  },
+  {
+    id: "9",
+    title: "Momentum",
+    yt: "https:/youtu.be/KB_l7P2_JkQ?si=_FeWXPkzlBrV5MnN",
+    link: "",
+    category: "Crypto Trading",
+  },
+  {
+    id: "10",
+    title: "Penerapan Smart Money",
+    yt: "https:/youtu.be/jPhR_xH_2JE?si=HE_5dVNv5vvDhSdF",
+    link: "",
+    category: "Crypto Trading",
+  }
+];
